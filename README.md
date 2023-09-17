@@ -8,8 +8,8 @@ Seria necessário trazer para o cliente qual foi o dia de maior venda.
 
 ## :books: Passo a passo
 * <b>Extração</b>: Foi extrapido apenas as informações que eram necessárias no caso a data e os valores e colocados em uma lista cada informação.
-* <b>Transformação/b>: Nessa estapa foi criado um dataframe que agrupou a soma das vendas por data
-* <b>Carregamento/b>: Nessa estapa foi visualizado o grafico com as informações e podendo ver que o dia que teve maior venda foi no dia 26/08/2023 em um sábado.
+* <b>Transformação</b>: Nessa estapa foi criado um dataframe que agrupou a soma das vendas por data
+* <b>Carregamento</b>: Nessa estapa foi visualizado o grafico com as informações e podendo ver que o dia que teve maior venda foi no dia 26/08/2023 em um sábado.
 
 ## :wrench: Linguagem Utilizadas
 * Python com a biblioteca pandas e matplotlib
@@ -28,3 +28,4 @@ Seria necessário trazer para o cliente qual foi o dia de maior venda.
 </table>
 
 ## :dart: Status do projeto
+* Em andamento
